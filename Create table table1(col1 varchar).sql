@@ -1,0 +1,1 @@
+Create table table1(col1 varchar)
